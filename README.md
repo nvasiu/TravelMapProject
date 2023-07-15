@@ -7,7 +7,7 @@ A map that displays nearby restaurants, hotels and attractions.
 * See details for each location, including pictures, rating, price range, website, etc.
 
 
-Video demo: https://vimeo.com/manage/videos/845440254/326756cbd9
+[Video demo](https://vimeo.com/845440254/326756cbd9?share=copy)
 
 
 | ![restaurants](https://github.com/nvasiu/TravelMapProject/assets/46430801/6b781b7f-4856-41e4-ba2e-4a07269d83d9) | 
